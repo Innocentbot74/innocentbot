@@ -10,7 +10,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING DarkNero
+//┃THANKS FOR CHOOSING INNOCENT
 //┃THANKS TO Vishanga & Thinura & kumuthu
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
@@ -37,7 +37,7 @@ global.alivepic = "https://i.ibb.co/8N6fR4X/Whats-App-Image-2022-09-17-at-21-22-
 
 
 global.ownername = " INNOCENT " //ur owner name
-global.owner = ['923060953302','']
+global.owner = ['923060953301','']
 global.premium = ['923060953301','923060953301']
 global.botname = 'INNOCENT BOT'
 global.ownername = 'INNOCENT'
